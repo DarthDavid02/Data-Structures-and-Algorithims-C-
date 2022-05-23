@@ -1,0 +1,7 @@
+﻿  ch4ex20.cpp
+C:\Users\David Ressler\Documents\PTC Data Structures and Algorithms\C++\ch4ex20\ch4ex20\ch4ex20.cpp(10,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\David Ressler\Documents\PTC Data Structures and Algorithms\C++\ch4ex20\ch4ex20\ch4ex20.cpp(11,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\David Ressler\Documents\PTC Data Structures and Algorithms\C++\ch4ex20\ch4ex20\ch4ex20.cpp(12,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\David Ressler\Documents\PTC Data Structures and Algorithms\C++\ch4ex20\ch4ex20\ch4ex20.cpp(13,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\David Ressler\Documents\PTC Data Structures and Algorithms\C++\ch4ex20\ch4ex20\ch4ex20.cpp(14,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ch4ex20.vcxproj -> C:\Users\David Ressler\Documents\PTC Data Structures and Algorithms\C++\ch4ex20\x64\Debug\ch4ex20.exe
