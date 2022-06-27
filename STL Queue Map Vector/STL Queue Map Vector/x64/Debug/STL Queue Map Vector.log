@@ -1,0 +1,3 @@
+﻿  STL Queue Map Vector.cpp
+C:\Users\David Ressler\Documents\PTC Data Structures and Algorithms\C++\STL Queue Map Vector\STL Queue Map Vector\STL Queue Map Vector.cpp(47,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  STL Queue Map Vector.vcxproj -> C:\Users\David Ressler\Documents\PTC Data Structures and Algorithms\C++\STL Queue Map Vector\x64\Debug\STL Queue Map Vector.exe
