@@ -1,0 +1,5 @@
+﻿  ch10ex4.cpp
+C:\Users\David Ressler\Documents\PTC Data Structures and Algorithms\C++\ch10ex4\ch10ex4\ch10ex4.cpp(39,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\David Ressler\Documents\PTC Data Structures and Algorithms\C++\ch10ex4\ch10ex4\ch10ex4.cpp(49,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\David Ressler\Documents\PTC Data Structures and Algorithms\C++\ch10ex4\ch10ex4\ch10ex4.cpp(11,12): warning C4101: 'currentShield': unreferenced local variable
+  ch10ex4.vcxproj -> C:\Users\David Ressler\Documents\PTC Data Structures and Algorithms\C++\ch10ex4\x64\Debug\ch10ex4.exe
